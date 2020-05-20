@@ -7,5 +7,9 @@ Imágen con rectangulos
 
 ![](poesia_rectangulo.bmp)
 
+Añadiendo más formas 
+
+![](poesia_linea.bmp)
+
 Alumna:
 Erika Judith Tamo Turpo
